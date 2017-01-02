@@ -1,6 +1,6 @@
 # Cryogen Static Blogging Automator 
 
-A small tool for automating the process of authoring posts using the [Cryogen](http://cryogenweb.org) static site blogging framework. Written on macOS Sierra 10.12.2. Minimally tested. Designed to make writing posts for static site blogs less rote. 
+A small tool for automating the process of authoring posts using the [Cryogen](http://cryogenweb.org) static site blogging framework. Developed on macOS Sierra 10.12.2. Minimally tested. Designed to make writing posts for static site blogs less rote. 
 
 ## Dependencies 
 
